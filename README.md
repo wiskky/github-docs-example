@@ -8,7 +8,7 @@ Codeblock in **markdown** make it *very easy* for the tech people.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-![This is the sample image](https://github.com/wiskky/github-docs-example/assets/19255446/3281e2e1-db67-43bc-a541-2bad64293d20)
+<!-- ![This is the sample image](https://github.com/wiskky/github-docs-example/assets/19255446/3281e2e1-db67-43bc-a541-2bad64293d20) -->
 <img width="200px" src="https://github.com/wiskky/github-docs-example/assets/19255446/3281e2e1-db67-43bc-a541-2bad64293d20" />
 This is the Python code snipt
 
